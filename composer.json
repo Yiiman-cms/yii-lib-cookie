@@ -19,6 +19,6 @@
     "php": ">=7.0",
     "yiisoft/yii2": "2.0.*",
     "ext-json": "*",
-    "yiiman/yii-module-setting": "0.0.2"
+    "yiiman/yii-module-setting": "dev-main"
   }
 }
